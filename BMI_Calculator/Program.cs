@@ -3,6 +3,7 @@
 
 using System;
 
+//Grade: 10/10 Great job!
 public class Calculator
 {
     //Primary Method for I/O of application
