@@ -1,0 +1,6 @@
+C:\Users\Alicia\Documents\aSCHOOL\COP2360 C#\GitHub\Assignments\522tabularOutput\522tabularOutput\bin\Debug\522tabularOutput.exe.config
+C:\Users\Alicia\Documents\aSCHOOL\COP2360 C#\GitHub\Assignments\522tabularOutput\522tabularOutput\obj\Debug\522tabularOutput.csprojResolveAssemblyReference.cache
+C:\Users\Alicia\Documents\aSCHOOL\COP2360 C#\GitHub\Assignments\522tabularOutput\522tabularOutput\bin\Debug\522tabularOutput.exe
+C:\Users\Alicia\Documents\aSCHOOL\COP2360 C#\GitHub\Assignments\522tabularOutput\522tabularOutput\bin\Debug\522tabularOutput.pdb
+C:\Users\Alicia\Documents\aSCHOOL\COP2360 C#\GitHub\Assignments\522tabularOutput\522tabularOutput\obj\Debug\522tabularOutput.exe
+C:\Users\Alicia\Documents\aSCHOOL\COP2360 C#\GitHub\Assignments\522tabularOutput\522tabularOutput\obj\Debug\522tabularOutput.pdb
