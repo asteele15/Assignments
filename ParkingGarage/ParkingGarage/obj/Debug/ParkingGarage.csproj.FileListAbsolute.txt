@@ -1,0 +1,2 @@
+C:\Users\Alicia\Documents\aSCHOOL\COP2360 C#\GitHub\Assignments\ParkingGarage\ParkingGarage\bin\Debug\ParkingGarage.exe.config
+C:\Users\Alicia\Documents\aSCHOOL\COP2360 C#\GitHub\Assignments\ParkingGarage\ParkingGarage\obj\Debug\ParkingGarage.csprojResolveAssemblyReference.cache

@@ -1,0 +1,12 @@
+C:\Users\Alicia\AppData\Local\Temporary Projects\Arithmetic\bin\Debug\Arithmetic.exe.config
+C:\Users\Alicia\AppData\Local\Temporary Projects\Arithmetic\bin\Debug\Arithmetic.exe
+C:\Users\Alicia\AppData\Local\Temporary Projects\Arithmetic\bin\Debug\Arithmetic.pdb
+C:\Users\Alicia\AppData\Local\Temporary Projects\Arithmetic\obj\Debug\Arithmetic.csprojResolveAssemblyReference.cache
+C:\Users\Alicia\AppData\Local\Temporary Projects\Arithmetic\obj\Debug\Arithmetic.exe
+C:\Users\Alicia\AppData\Local\Temporary Projects\Arithmetic\obj\Debug\Arithmetic.pdb
+C:\Users\Alicia\Documents\aSCHOOL\COP2360 C#\Arithmetic\Arithmetic\bin\Debug\Arithmetic.exe.config
+C:\Users\Alicia\Documents\aSCHOOL\COP2360 C#\Arithmetic\Arithmetic\obj\Debug\Arithmetic.exe
+C:\Users\Alicia\Documents\aSCHOOL\COP2360 C#\Arithmetic\Arithmetic\obj\Debug\Arithmetic.pdb
+C:\Users\Alicia\Documents\aSCHOOL\COP2360 C#\Arithmetic\Arithmetic\bin\Debug\Arithmetic.exe
+C:\Users\Alicia\Documents\aSCHOOL\COP2360 C#\Arithmetic\Arithmetic\bin\Debug\Arithmetic.pdb
+C:\Users\Alicia\Documents\aSCHOOL\COP2360 C#\Arithmetic\Arithmetic\obj\Debug\Arithmetic.csprojResolveAssemblyReference.cache
