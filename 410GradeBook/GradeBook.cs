@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-
+//Grade 10/10 - Good job, my one recommendation is that you give the parameters for the Gradebook constructor meaningful names, like courseName, instructorName
 
 public class Gradebook
 {
