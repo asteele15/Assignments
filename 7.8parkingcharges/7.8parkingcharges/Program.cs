@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+//Grade 7.5/10 - You should never turn in code that does not compile. Even if you cannot figure out the logic, make sure that your code compiles. Lets go over this assignment in class.
 namespace ParkingGarage7.8
 {
 
