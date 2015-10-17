@@ -4,7 +4,6 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-//Again, I know it's not functional.. I'm not sure what's wrong w/ the if statements.
 
 namespace _730NumberGuessing
 {
@@ -12,21 +11,33 @@ namespace _730NumberGuessing
     {
         static void Main(string[] args)
         {
-            Random number = new Random( 1000 ); //generate random number
+            Random number = new Random(); //generate random number
             Console.WriteLine("Guess a number between 1 and 1000");   
             
-            int Guess = Convert.ToInt32(Console.ReadLine()); //gather user guess
+            int Guess;
+            int Answer;
+            Answer = number.Next(1, 1000);
 
-            while ( Guess != number ) //loop to continue testing guess against random number
-                Guess = Convert.ToInt32(Console.ReadLine()); //gather user guess
-            if ( Guess = number )
+            do 
+            {
+                Guess = Convert.ToInt32(Console.ReadLine());
+
+            if ( Guess == Answer )
                 Console.WriteLine("Congrats! You guessed right!");
-            else (Guess < number );
+            else if (Guess < Answer )
                 Console.WriteLine( "Your guess is too low, try again." );
-            else (Guess > number );
+            else if (Guess > Answer )
                 Console.WriteLine( "Your guess is too high, try again." );
+            }while (Guess != Answer);
             
-
+            
         }//end main
+        public static int Random()
+        {
+            Random number = new Random();
+            int Answer;
+            Answer = number.Next(1, 1000);
+            return Answer;
+        }
     } //end class
 }//end namespace

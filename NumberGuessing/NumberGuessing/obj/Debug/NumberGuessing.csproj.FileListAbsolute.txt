@@ -1,0 +1,9 @@
+C:\Users\Alicia\Documents\aSCHOOL\COP2360 C#\GitHub\Assignments\NumberGuessing\NumberGuessing\bin\Debug\NumberGuessing.exe.config
+C:\Users\Alicia\Documents\aSCHOOL\COP2360 C#\GitHub\Assignments\NumberGuessing\NumberGuessing\obj\Debug\NumberGuessing.csprojResolveAssemblyReference.cache
+C:\Users\Alicia\Documents\aSCHOOL\COP2360 C#\GitHub\Assignments\NumberGuessing\NumberGuessing\obj\Debug\NumberGuessing.Form1.resources
+C:\Users\Alicia\Documents\aSCHOOL\COP2360 C#\GitHub\Assignments\NumberGuessing\NumberGuessing\obj\Debug\NumberGuessing.Properties.Resources.resources
+C:\Users\Alicia\Documents\aSCHOOL\COP2360 C#\GitHub\Assignments\NumberGuessing\NumberGuessing\obj\Debug\NumberGuessing.csproj.GenerateResource.Cache
+C:\Users\Alicia\Documents\aSCHOOL\COP2360 C#\GitHub\Assignments\NumberGuessing\NumberGuessing\bin\Debug\NumberGuessing.exe
+C:\Users\Alicia\Documents\aSCHOOL\COP2360 C#\GitHub\Assignments\NumberGuessing\NumberGuessing\bin\Debug\NumberGuessing.pdb
+C:\Users\Alicia\Documents\aSCHOOL\COP2360 C#\GitHub\Assignments\NumberGuessing\NumberGuessing\obj\Debug\NumberGuessing.exe
+C:\Users\Alicia\Documents\aSCHOOL\COP2360 C#\GitHub\Assignments\NumberGuessing\NumberGuessing\obj\Debug\NumberGuessing.pdb

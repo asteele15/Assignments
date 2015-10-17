@@ -1,1 +1,8 @@
 C:\Users\Alicia\Documents\aSCHOOL\COP2360 C#\GitHub\Assignments\730NumberGuessing\730NumberGuessing\bin\Debug\730NumberGuessing.exe.config
+C:\Users\Alicia\Documents\aSCHOOL\COP2360 C#\GitHub\Assignments\730NumberGuessing\730NumberGuessing\bin\Debug\730NumberGuessing.exe
+C:\Users\Alicia\Documents\aSCHOOL\COP2360 C#\GitHub\Assignments\730NumberGuessing\730NumberGuessing\bin\Debug\730NumberGuessing.pdb
+C:\Users\Alicia\Documents\aSCHOOL\COP2360 C#\GitHub\Assignments\730NumberGuessing\730NumberGuessing\obj\Debug\730NumberGuessing.csprojResolveAssemblyReference.cache
+C:\Users\Alicia\Documents\aSCHOOL\COP2360 C#\GitHub\Assignments\730NumberGuessing\730NumberGuessing\obj\Debug\_730NumberGuessing.Form1.resources
+C:\Users\Alicia\Documents\aSCHOOL\COP2360 C#\GitHub\Assignments\730NumberGuessing\730NumberGuessing\obj\Debug\730NumberGuessing.csproj.GenerateResource.Cache
+C:\Users\Alicia\Documents\aSCHOOL\COP2360 C#\GitHub\Assignments\730NumberGuessing\730NumberGuessing\obj\Debug\730NumberGuessing.exe
+C:\Users\Alicia\Documents\aSCHOOL\COP2360 C#\GitHub\Assignments\730NumberGuessing\730NumberGuessing\obj\Debug\730NumberGuessing.pdb
