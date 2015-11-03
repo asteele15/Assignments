@@ -61,6 +61,11 @@ namespace _730NumberGuessing
                 }
             } while (Guess != Random1);
             
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
         }//end start click
     
     }//end class
