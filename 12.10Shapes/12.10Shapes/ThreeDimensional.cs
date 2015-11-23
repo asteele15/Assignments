@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace _12._10Shapes
 {
-    class ThreeDimensional
+    class ThreeDimensional : Shape
     {
+        public abstract override double Volume();
+        public abstract override double SArea();
+
     }
 }

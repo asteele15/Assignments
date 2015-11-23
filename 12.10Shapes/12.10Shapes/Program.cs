@@ -21,7 +21,6 @@ namespace _12._10Shapes
 
         static void (string[] args)
         {
-
-        }
+                }
     }
 }

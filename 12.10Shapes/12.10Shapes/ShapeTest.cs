@@ -6,11 +6,13 @@ using System.Threading.Tasks;
 
 namespace _12._10Shapes
 {
-    class TwoDimensional
+    class ShapeTest
     {
-        public abstract override double Area();
-        public abstract override double Circumference();
-        
+        public static void Main(string[] args)
+        {
+            Shape[] shape = new Shape[4];
 
+
+        }
     }
 }

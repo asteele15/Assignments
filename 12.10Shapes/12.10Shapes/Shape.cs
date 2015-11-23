@@ -9,9 +9,7 @@ namespace _12._10Shapes
     public abstract class Shape
     {
         //declare abstract base class method area
-        public abstract override int Area();
-
-        
+        public abstract override double Area();
 
     }
 }
