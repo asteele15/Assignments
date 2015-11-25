@@ -4,6 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+//Grade 7.5
+//You have an issue with the for loops that are looping for rolls.length.  Note that you are looping 36000 times and for each one of those loops you are looping another 36000 times.  This is a lot of unnecessary looping.  you don't need both for loops.
+//You should remove the inner for loop that is looping for rolls.length 
+//you are also outputting the results within the outer for loop which means that the output will be displayed 36000 times.
+//Once those issues are fixed, there are still errors in the output due to the way you are outputting the results
 namespace _817DiceRolling
 {
     class Program 
