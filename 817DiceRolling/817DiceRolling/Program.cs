@@ -8,79 +8,62 @@ namespace _817DiceRolling
 {
     class Program 
     {
-        Random randomNumber = new Random(); //random number
-
         static void Main(string[] args)
-        {   int[] tally = new int[36000];  //array for rolls
-
-            for (int count = 0; count <= tally.Length; count++ )
-            { int sum = Roll();
-                tally[count] = sum;
-            }
-                                      
-            int[] results = new int[10];
-
-            foreach( int sum in tally )
+        {   
+            //rolling two dice and storing results in rolls array
+            int[] rolls = new int[36000];
+            for (int count = 0; count < rolls.Length; count++) //roll die length times 
             {
-                if ( sum == 2 );
-                    Console.WriteLine("*");
-                else ( sum == 3 );
-                    Console.WriteLine("*");
-                else ( sum == 4 ):
-                Console.WriteLine("*");
-                else ( sum == 5 ); 
-                Console.WriteLine("*");
-                else ( sum == 6 ); 
-                Console.WriteLine("*");
-                else ( sum == 7 ); 
-                Console.WriteLine("*");
-                else ( sum == 8 ); 
-                Console.WriteLine("*");
-                else ( sume == 9 );
-                Console.WriteLine("*");
-                else ( sum == 10 );
-                   Console.WriteLine("*");
-                else (sum == 11 ); 
-                Console.WriteLine("*");
-                else (sum == 12 ); 
-                Console.WriteLine("*");
-            }//for each
-           
-        }//main
-        
+                rolls[count] = Roll();
 
-        public static int Roll()
-        {
-            int die1 = randomNumber.Next(1, 7);
-            int die2 = randomNumber.Next(1, 7);
+                int[] results = new int[11];
+
+                for (int counter = 0; counter < rolls.Length; counter++) //tally results per total
+                {
+                    if (rolls[counter] == 2)
+                        results[0] += 1;
+                    else if (rolls[counter] == 3)
+                        results[1] += 1;
+                    else if (rolls[counter] == 4)
+                        results[2] += 1;
+                    else if (rolls[counter] == 5)
+                        results[3] += 1;
+                    else if (rolls[counter] == 6)
+                        results[4] += 1;
+                    else if (rolls[counter] == 7)
+                        results[5] += 1;
+                    else if (rolls[counter] == 8)
+                        results[6] += 1;
+                    else if (rolls[counter] == 9)
+                        results[7] += 1;
+                    else if (rolls[counter] == 10)
+                        results[8] += 1;
+                    else if (rolls[counter] == 11)
+                        results[9] += 1;
+                    else if (rolls[counter] == 12)
+                        results[10] += 1;
+                }//end for
+
+
+                Console.WriteLine("{0}{1}", "index", "value");
+                for (int index = 0; index < results.Length; index++) //display column of results headers
+                {
+
+                    Console.WriteLine("{0}\t{1}", index + 2, results[index]); //display results created in results array
+                }//end for
+            }
+
+            Console.ReadLine();
+        }//main
+
+
+        public static int Roll() //generate new sum for each roll
+        {   Random number = new Random();
+            int die1 = number.Next(1,7);
+            int die2 = number.Next(1, 7);
             int total = die1 + die2;
             return (total);
 
-        }//Roll
-
-        public void Results()
-        {
-            Console.WriteLine( "Overall Dice Rolls:" );
-
-            int[] frequency = new int[6];
- 
-            foreach (int sum in tally )
-            {
-                ++frequency[ sum ];
-            }
-
-            for ( int count = 0; count < frequency.Length; ++count )
-            {
-                if (count == 0 )
-                    Console.Write( " 100: "); 
-                else 
-                    Console.Write( "{0:D2}-{1:D2}: ",
-                        count * 10, count * 10+9 );
-
-                for (int stars = 0; stars < frequency[ count ]; ++stars )
-                    Console.WriteLine( "*" );
-                        
-
-               
+        }//Roll               
     }//class
 }//namespace

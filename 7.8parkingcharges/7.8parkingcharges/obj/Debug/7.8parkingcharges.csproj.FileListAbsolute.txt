@@ -1,0 +1,6 @@
+C:\Users\Alicia\Documents\aSCHOOL\COP2360 C#\GitHub\Assignments\7.8parkingcharges\7.8parkingcharges\bin\Debug\7.8parkingcharges.exe.config
+C:\Users\Alicia\Documents\aSCHOOL\COP2360 C#\GitHub\Assignments\7.8parkingcharges\7.8parkingcharges\obj\Debug\7.8parkingcharges.csprojResolveAssemblyReference.cache
+C:\Users\Alicia\Documents\aSCHOOL\COP2360 C#\GitHub\Assignments\7.8parkingcharges\7.8parkingcharges\bin\Debug\7.8parkingcharges.exe
+C:\Users\Alicia\Documents\aSCHOOL\COP2360 C#\GitHub\Assignments\7.8parkingcharges\7.8parkingcharges\bin\Debug\7.8parkingcharges.pdb
+C:\Users\Alicia\Documents\aSCHOOL\COP2360 C#\GitHub\Assignments\7.8parkingcharges\7.8parkingcharges\obj\Debug\7.8parkingcharges.exe
+C:\Users\Alicia\Documents\aSCHOOL\COP2360 C#\GitHub\Assignments\7.8parkingcharges\7.8parkingcharges\obj\Debug\7.8parkingcharges.pdb
