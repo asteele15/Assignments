@@ -1,1 +1,4 @@
 C:\Users\Alicia\Documents\aSCHOOL\COP2360 C#\GitHub\Assignments\10.8SetofIntegers\10.8SetofIntegers\bin\Debug\10.8SetofIntegers.exe.config
+C:\Users\Alicia\Documents\aSCHOOL\COP2360 C#\GitHub\Assignments\10.8SetofIntegers\10.8SetofIntegers\obj\Debug\10.8SetofIntegers.csprojResolveAssemblyReference.cache
+C:\Users\Alicia\Documents\aSCHOOL\COP2360 C#\GitHub\Assignments\10.8SetofIntegers\10.8SetofIntegers\obj\Debug\_10._8SetofIntegers.Properties.Resources.resources
+C:\Users\Alicia\Documents\aSCHOOL\COP2360 C#\GitHub\Assignments\10.8SetofIntegers\10.8SetofIntegers\obj\Debug\10.8SetofIntegers.csproj.GenerateResource.Cache

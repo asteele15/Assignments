@@ -6,11 +6,13 @@ using System.Windows.Forms;
 
 namespace _10._8SetofIntegers
 {
-    static class IntegerSet
+    class IntegerSet
     {
         bool[] set = new bool[100];//bool set available to class
+        bool[] setA = new bool[100];
+        bool[] setB = new bool[100];
         
-        public static IntegerSet()
+        public IntegerSet()
         {
             bool[] set = new bool[100];//initialize bool to false
 
@@ -74,18 +76,21 @@ namespace _10._8SetofIntegers
 
         public bool IsEqualTo(IntegerSet setB)
         {
-            for (int i = 0; i <= 100; i++)
-                if (set[i] == setB[i])
+            for (int i; i <= 100; i++ )
+            {
+                int x; 
+                if (setB[x] == setA[i])
                     continue;
                 else
                     return false;
-
+                x++;
+            }//end for
             return true;
         }//end isEqualTo method
 
         static void Main()
         {
-           
+            
         }//end main
     }//end class
 }//end namespace
