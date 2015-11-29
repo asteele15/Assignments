@@ -1,1 +1,2 @@
 C:\Users\Alicia\Documents\aSCHOOL\COP2360 C#\GitHub\Assignments\EmployeeHierarchy\EmployeeHierarchy\bin\Debug\EmployeeHierarchy.exe.config
+C:\Users\April\Documents\SSC\COP2360\Repositories\Alicia\Assignments\EmployeeHierarchy\EmployeeHierarchy\bin\Debug\EmployeeHierarchy.exe.config

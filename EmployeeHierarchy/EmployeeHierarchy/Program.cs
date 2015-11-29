@@ -4,6 +4,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+//Grade 8.5
+//Missing Requirements:
+//Each class should have a method to display the full name, address and phone number
+
+//Observations:
+//You have a static main method in your Person class, this method is for the main program only, it is not applicable to class definitions
+//Class Person constructor accepts a parameter for the full name, that is not necessary as the full name is always derived from the first and last name
+//Your constructor accepts a GPA as a parameter but also has a method to calculate the gpa that is independent of the gpa instance variable, this can cause inconsistencies in the data
 namespace EmployeeHierarchy
 {
     class Person
