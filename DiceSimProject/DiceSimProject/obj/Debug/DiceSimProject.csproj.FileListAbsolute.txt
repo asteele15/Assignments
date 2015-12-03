@@ -1,0 +1,9 @@
+C:\Users\Alicia\Documents\aSCHOOL\COP2360 C#\GitHub\Assignments\DiceSimProject\DiceSimProject\bin\Debug\DiceSimProject.exe.config
+C:\Users\Alicia\Documents\aSCHOOL\COP2360 C#\GitHub\Assignments\DiceSimProject\DiceSimProject\obj\Debug\DiceSimProject.csprojResolveAssemblyReference.cache
+C:\Users\Alicia\Documents\aSCHOOL\COP2360 C#\GitHub\Assignments\DiceSimProject\DiceSimProject\obj\Debug\DiceSimProject.Form1.resources
+C:\Users\Alicia\Documents\aSCHOOL\COP2360 C#\GitHub\Assignments\DiceSimProject\DiceSimProject\obj\Debug\DiceSimProject.Properties.Resources.resources
+C:\Users\Alicia\Documents\aSCHOOL\COP2360 C#\GitHub\Assignments\DiceSimProject\DiceSimProject\obj\Debug\DiceSimProject.csproj.GenerateResource.Cache
+C:\Users\Alicia\Documents\aSCHOOL\COP2360 C#\GitHub\Assignments\DiceSimProject\DiceSimProject\bin\Debug\DiceSimProject.exe
+C:\Users\Alicia\Documents\aSCHOOL\COP2360 C#\GitHub\Assignments\DiceSimProject\DiceSimProject\bin\Debug\DiceSimProject.pdb
+C:\Users\Alicia\Documents\aSCHOOL\COP2360 C#\GitHub\Assignments\DiceSimProject\DiceSimProject\obj\Debug\DiceSimProject.exe
+C:\Users\Alicia\Documents\aSCHOOL\COP2360 C#\GitHub\Assignments\DiceSimProject\DiceSimProject\obj\Debug\DiceSimProject.pdb
