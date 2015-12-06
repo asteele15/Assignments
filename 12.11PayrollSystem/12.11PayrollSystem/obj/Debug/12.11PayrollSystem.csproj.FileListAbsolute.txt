@@ -4,3 +4,9 @@ C:\Users\Alicia\Documents\aSCHOOL\COP2360 C#\GitHub\Assignments\12.11PayrollSyst
 C:\Users\Alicia\Documents\aSCHOOL\COP2360 C#\GitHub\Assignments\12.11PayrollSystem\12.11PayrollSystem\bin\Debug\12.11PayrollSystem.pdb
 C:\Users\Alicia\Documents\aSCHOOL\COP2360 C#\GitHub\Assignments\12.11PayrollSystem\12.11PayrollSystem\obj\Debug\12.11PayrollSystem.exe
 C:\Users\Alicia\Documents\aSCHOOL\COP2360 C#\GitHub\Assignments\12.11PayrollSystem\12.11PayrollSystem\obj\Debug\12.11PayrollSystem.pdb
+C:\Users\April\Documents\SSC\COP2360\Repositories\Alicia\Assignments\12.11PayrollSystem\12.11PayrollSystem\bin\Debug\12.11PayrollSystem.exe.config
+C:\Users\April\Documents\SSC\COP2360\Repositories\Alicia\Assignments\12.11PayrollSystem\12.11PayrollSystem\obj\Debug\12.11PayrollSystem.exe
+C:\Users\April\Documents\SSC\COP2360\Repositories\Alicia\Assignments\12.11PayrollSystem\12.11PayrollSystem\obj\Debug\12.11PayrollSystem.pdb
+C:\Users\April\Documents\SSC\COP2360\Repositories\Alicia\Assignments\12.11PayrollSystem\12.11PayrollSystem\bin\Debug\12.11PayrollSystem.exe
+C:\Users\April\Documents\SSC\COP2360\Repositories\Alicia\Assignments\12.11PayrollSystem\12.11PayrollSystem\bin\Debug\12.11PayrollSystem.pdb
+C:\Users\April\Documents\SSC\COP2360\Repositories\Alicia\Assignments\12.11PayrollSystem\12.11PayrollSystem\obj\Debug\12.11PayrollSystem.csprojResolveAssemblyReference.cache

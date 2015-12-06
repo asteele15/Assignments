@@ -4,6 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+//Grade: 9.5
+//Observations: see comments below
 class PieceWorker : Employee
     {
         private decimal wage;
@@ -13,6 +15,8 @@ class PieceWorker : Employee
            decimal earnings, decimal rate)
             : base(first, last, ssn)
         {
+            //you are setting the parameters  = to the local instance variables ...this will not do anything. 
+            //the parameters lose scope after the constructo and the wage and piece instance vars will never have any value while the object is being instanciated
             rate = wage;
             earnings = wage * piece;
         }
