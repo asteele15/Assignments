@@ -69,6 +69,25 @@ namespace DiceSimProject
             }
         }
 
+        public void clearresults()
+        {
+            
+            oneResult.Visible = false;
+            twoResult.Visible = false;
+            threeResult.Visible = false;
+            fourResult.Visible = false;
+            fiveResult.Visible = false;
+            sixResult.Visible = false;
+
+            oneResult.Text = "Roll1:";
+            twoResult.Text = "Roll2:";
+            threeResult.Text = "Roll3:";
+            fourResult.Text = "Roll4:";
+            fiveResult.Text = "Roll5:";
+            sixResult.Text = "Roll6:";
+        }//end clear results box 
+
+
         public void RollDice()//method to roll dice generates random numbers and assigns to labels for output
         {
             Random num = new Random();
@@ -97,6 +116,7 @@ namespace DiceSimProject
                 MessageBox.Show("Please select a number of Dice");
             else
             {
+                clearresults();
                 RollDice();
                 DisplayDice();
             }
@@ -125,6 +145,12 @@ namespace DiceSimProject
             fiveResult.Text = "Roll5";
             sixResult.Text = "Roll6";
         
+        
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Close();
         }//roll click 
     }//end class
 }//end namespace
